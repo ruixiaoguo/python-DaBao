@@ -1,4 +1,4 @@
-# Python打包
+# Python打包使用说明
 Python实现iOS自动化打包详解
 
 ## 使用方法
